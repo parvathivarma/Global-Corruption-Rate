@@ -25,4 +25,16 @@ The data has been sliced to show the recent 5 years data points. Data points fro
 
 ## Prototype 
 
+<img width="738" alt="screen shot 2017-11-17 at 10 31 03 am" src="https://user-images.githubusercontent.com/32216143/32962813-aade9324-cb82-11e7-837d-73c98e57ab82.png">
+
+### Description
+
+I have chosen a bar graph to support my claim. The reason I chose bar graph is that it is easy to see the difference in height of the bar graph. 
+
+Advantage: Easy to notice the change over the year
+Disadvantage: The year is not continuouse as it has to be. 
+
+## My Final version of the claim
+
+
 
