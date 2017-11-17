@@ -14,5 +14,7 @@ The first column of the data is entity which stands for names of different count
 
 ## Project Plan
 
+<img width="900" alt="screen shot 2017-11-16 at 10 23 11 pm" src="https://user-images.githubusercontent.com/32216143/32932492-1e8f24e8-cb1d-11e7-8923-3763b8d23c2b.png">
+
 
 
