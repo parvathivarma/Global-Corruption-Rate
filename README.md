@@ -27,11 +27,11 @@ The data has been sliced to show the recent 5 years data points. Data points fro
 ### Description
 I have chosen a bar graph to support my claim. The reason I chose bar graph is that it is easy to see the difference in height of the bar graph. 
 
-Advantage 
+#### Advantage 
 
 Easy to notice the change over the year
 
-Disadvantage
+#### Disadvantage
 
 The year is not continuouse as it has to be. 
 
@@ -43,15 +43,22 @@ The year is not continuouse as it has to be.
 
 The line graph is a continuouse graph that can be easily interpreted by any reader. On viewing the graph, you can notice the trend easily.
 
-Advantage
+#### Advantage
 
 The graph is continuouse
 
 It has marked data points so that the reader does not have to compare with the Y axis to get the value of increase/decrease
 
-Disadvantage: 
+#### Disadvantage: 
 
 A detailed graph stating the names of the countries where there is an increase in corruption would have been more helpful and impactful. 
+
+## Deceptive version
+
+### Claim
+
+There is a decline in the rate of corruption at a global level.
+
 
 
 
