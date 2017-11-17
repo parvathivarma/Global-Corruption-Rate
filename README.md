@@ -75,6 +75,19 @@ It does not show the reason behind the decline and hence not able to strongly op
 
 ## Prototype 2.2
 
+<img width="737" alt="screen shot 2017-11-17 at 3 35 38 pm" src="https://user-images.githubusercontent.com/32216143/32973572-1043e8ca-cbad-11e7-82d7-30f5c33f0b48.png">
+
+#### Advantage
+
+The graph uses the same metrics that is used in claim 1 and hence easier to compare.
+
+#### Disadvantage
+
+The graph does not indicate a steep decline which can make the readers think that 2016 was just an anomaly. 
+
+## My Final Version of Claim 2
+
+
 
 
 
