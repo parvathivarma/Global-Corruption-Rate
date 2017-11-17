@@ -59,7 +59,22 @@ A detailed graph stating the names of the countries where there is an increase i
 
 There is a decline in the rate of corruption at a global level.
 
-## Prototype
+## Prototype 2.1
+
+<img width="737" alt="screen shot 2017-11-17 at 3 27 38 pm" src="https://user-images.githubusercontent.com/32216143/32973401-0e2348a2-cbac-11e7-811b-71eac940d6b7.png">
+
+#### Advantage
+
+The advantage is that the graph shows the decline in a way that a reader can easily understand. 
+
+#### Disadvantage
+
+It does not have data points marked.
+
+It does not show the reason behind the decline and hence not able to strongly oppose the claim that we made first. 
+
+## Prototype 2.2
+
 
 
 
