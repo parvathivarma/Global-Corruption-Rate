@@ -18,3 +18,11 @@ The first column of the data is entity which stands for names of different count
 
 
 
+## Claim 
+
+Corruption is increasing over the year globally
+The data has been sliced to show the recent 5 years data points. Data points from 2012 to 2016 is considered for this study. 
+
+## Prototype 
+
+
