@@ -55,9 +55,12 @@ A detailed graph stating the names of the countries where there is an increase i
 
 ## Deceptive version
 
-### Claim
+## Claim
 
 There is a decline in the rate of corruption at a global level.
+
+## Prototype
+
 
 
 
