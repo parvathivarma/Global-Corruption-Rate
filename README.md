@@ -21,7 +21,7 @@ The first column of the data is entity which stands for names of different count
 <img width="900" alt="screen shot 2017-11-16 at 10 23 11 pm" src="https://user-images.githubusercontent.com/32216143/32932492-1e8f24e8-cb1d-11e7-8923-3763b8d23c2b.png">
 
 ## Claim 
-Corruption is increasing over the year globally
+Corruption is increasing over the year globally.
 The data has been sliced to show the recent 5 years data points. Data points from 2012 to 2016 is considered for this study. 
 
 ## Prototype 
@@ -38,15 +38,10 @@ Easy to notice the change over the year
 
 The year is not continuouse as it has to be. 
 
-### Backing
-https://www.theguardian.com/news/datablog/2010/dec/09/global-corruption-index-worlwide-transparency-international
-
-### Warrant
-https://www.lexology.com/library/detail.aspx?g=3e76bfe3-0263-4626-a133-16f521023ebd
-
-Corruption Perceptions Index has declined indicating that the corruption has increased over the year. 
-
- ## My Final version of the claim
+## My Final version of the claim
+ 
+ Link to the version: https://public.tableau.com/views/Global-Corruption-Rate/Declineincorruptionrate?:embed=y&:display_count=yes&publish=yes
+ 
 <img width="953" alt="screen shot 2017-11-17 at 10 22 42 am" src="https://user-images.githubusercontent.com/32216143/32972805-1577056a-cba9-11e7-95e7-e489997f737c.png">
 
 ### Description
@@ -63,6 +58,14 @@ It has marked data points so that the reader does not have to compare with the Y
 #### Disadvantage: 
 
 A detailed graph stating the names of the countries where there is an increase in corruption would have been more helpful and impactful. 
+
+### Backing
+https://www.theguardian.com/news/datablog/2010/dec/09/global-corruption-index-worlwide-transparency-international
+
+### Warrant
+https://www.lexology.com/library/detail.aspx?g=3e76bfe3-0263-4626-a133-16f521023ebd
+
+Corruption Perceptions Index has declined indicating that the corruption has increased over the year. 
 
 ## Deceptive version
 
