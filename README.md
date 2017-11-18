@@ -202,6 +202,8 @@ The current tab shows the claim 1 where the corruption is increasing globally.
 You can navigate to the next dashboard by clicking on the sheet that appears as tab on top of visualization. Click on "Decline in Corruption rate" tab to view the deceptive version. 
 
 Link to the video: 
+https://youtu.be/z-LGy35r_JQ
+
 
 
 
