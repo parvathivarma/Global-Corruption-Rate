@@ -40,7 +40,9 @@ The year is not continuouse as it has to be.
 
 ## My Final version of the claim
  
- Link to the version: https://public.tableau.com/views/Global-Corruption-Rate/Declineincorruptionrate?:embed=y&:display_count=yes&publish=yes
+ Link to the version: 
+ 
+ https://public.tableau.com/views/Global-Corruption-Rate/IncreaseinCorruption?:embed=y&:display_count=yes&publish=yes
  
 <img width="953" alt="screen shot 2017-11-17 at 10 22 42 am" src="https://user-images.githubusercontent.com/32216143/32972805-1577056a-cba9-11e7-95e7-e489997f737c.png">
 
@@ -101,6 +103,10 @@ The graph does not indicate a steep decline which can make the readers think tha
 
 ## My Final Version of Claim 
 
+Link to my visualization: 
+
+https://public.tableau.com/views/Global-Corruption-Rate/Declineincorruptionrate?:embed=y&:display_count=yes&publish=yes
+
 <img width="894" alt="screen shot 2017-11-17 at 3 39 58 pm" src="https://user-images.githubusercontent.com/32216143/32973662-b0bf42cc-cbad-11e7-85f9-7908b458fcf2.png">
 
 ### Description
@@ -140,6 +146,17 @@ Understand the reason for such huge corruption in the year 2013
 Analyze the effeciency of transparency system and relate it to the number of incidence reported
 
 Correlate economic growth of a country with the incidence of corruption in that country
+
+Link to the visualization
+
+https://public.tableau.com/views/Global-Corruption-Rate/IncreaseinCorruption?:embed=y&:display_count=yes&publish=yes
+
+The current tab shows the claim 1 where the corruption is increasing globally.
+You can navigate to the next dashboard by clicking on the sheet that appears as tab on top of visualization. Click on "Decline in Corruption rate" tab to view the deceptive version. 
+
+Link to the video: 
+
+
 
 
 
