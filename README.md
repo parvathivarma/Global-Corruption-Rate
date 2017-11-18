@@ -59,7 +59,7 @@ A detailed graph stating the names of the countries where there is an increase i
 
 There is a decline in the rate of corruption at a global level.
 
-## Prototype 2.1
+## Prototype 1 (Deceptive version)
 
 <img width="737" alt="screen shot 2017-11-17 at 3 27 38 pm" src="https://user-images.githubusercontent.com/32216143/32973401-0e2348a2-cbac-11e7-811b-71eac940d6b7.png">
 
@@ -73,7 +73,7 @@ It does not have data points marked.
 
 It does not show the reason behind the decline and hence not able to strongly oppose the claim that we made first. 
 
-## Prototype 2.2
+## Prototype 2 (Deceptive version)
 
 <img width="737" alt="screen shot 2017-11-17 at 3 35 38 pm" src="https://user-images.githubusercontent.com/32216143/32973572-1043e8ca-cbad-11e7-82d7-30f5c33f0b48.png">
 
@@ -85,7 +85,36 @@ The graph uses the same metrics that is used in claim 1 and hence easier to comp
 
 The graph does not indicate a steep decline which can make the readers think that 2016 was just an anomaly. 
 
-## My Final Version of Claim 2
+## My Final Version of Claim 
+
+<img width="894" alt="screen shot 2017-11-17 at 3 39 58 pm" src="https://user-images.githubusercontent.com/32216143/32973662-b0bf42cc-cbad-11e7-85f9-7908b458fcf2.png">
+
+### Description
+#### Why I choose this visualization?
+The first line graph is easy to understand and conveys the fact that number of bribery incidents have been declining over the year. 
+
+The second graph supports the first graph by showing the number of countries that has reported incidents and we can clearly see that in the year 2016, only three incidents were reported. Out of the three incidents, the average percentage of bribery incident at Cambodia is very high which has resulted in higher value shown in the first graph. 
+
+#### Advantage
+
+The line graph gives a clear picture of decline of corruption rate 
+
+The numbers on the point indicate the number of incidents
+
+The second graph shows the percent bribery incidence per firm and hence gives us a clear picture at a country level
+
+#### Disadvantage
+
+There is a lot of color in the second graph which could have been avoided
+
+## Roadmap
+
+Understand the reason for such huge corruption in the year 2013
+
+Analyze the effeciency of transparency system and relate it to the number of incidence reported
+
+Correlate economic growth of a country with the incidence of corruption in that country
+
 
 
 
