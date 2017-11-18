@@ -4,10 +4,13 @@
 After climate change and poverty, corruption is the next biggest issue faced all over the world. As a tax payer, I would like to see the amount I pay as tax being put to good use for the country's developement. When such expectations are not met and money that we pay as tax does not reach the right hands. This is really frusturating to see and experience. Hence, I chose this topic on world corruption rate to study its trend on a global level. 
 
 ## Objective
-Objective of my visualization is to show a deceptive version on corruption around the world. The first version of my visualization talks about how average corruption has been increasing over the year and the second version contradicts the claim. It shows that though the percent of firms experiencing at least one bribe payment request during 6 transactions has been increasing, the number of such incidents has declined over the year. This visualization will give the government a clear picture of where their country stands in terms of corruption and a global perspective on countries that experience the highest corruption. 
+Objective of this project is to show a deceptive version of a version of visualization I create on a particular topic. The first version of my visualization talks about how average corruption has been increasing over the year and the second version contradicts the claim. It shows that though the percent of firms experiencing at least one bribe payment request during 6 transactions has been increasing, the number of such incidents has declined over the year. This visualization will give the government a clear picture of where their country stands in terms of corruption and a global perspective on countries that experience the highest corruption. 
 
 ## Intended Audience
 Intended audience are officials in Anti-corruption agencies and bureau.  
+
+### Actions of Audience
+Intended audience can work on making the systems more transparent. They can enforce strict punishments on violation of the rules in countries where there is no improvement. 
 
 ## Data
 I have taken the data from https://ourworldindata.org/corruption/ . Here is the link to the data source. 
@@ -34,6 +37,11 @@ Easy to notice the change over the year
 #### Disadvantage
 
 The year is not continuouse as it has to be. 
+
+### Backing
+https://www.theguardian.com/news/datablog/2010/dec/09/global-corruption-index-worlwide-transparency-international
+
+### Warrant
 
  ## My Final version of the claim
 <img width="953" alt="screen shot 2017-11-17 at 10 22 42 am" src="https://user-images.githubusercontent.com/32216143/32972805-1577056a-cba9-11e7-95e7-e489997f737c.png">
