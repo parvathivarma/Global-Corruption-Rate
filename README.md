@@ -1,5 +1,52 @@
 # Global-Corruption-Rate
 
+## Content
+Motivation
+
+Objective
+
+Intended Audience
+
+Action of Audience
+
+Data
+
+Project Plan
+
+Claim
+
+Prototype 1
+
+My final Version
+
+Advantage & Disadvantage
+
+Backing
+
+Warrant
+
+Deceptive version claim
+
+Deceptive Version Prototype 1
+
+Deceptive Version Prototype 2
+
+My final version for deceptive version
+
+Advantage & Disadvantage
+
+Backing
+
+Warrant
+
+Reservation
+
+Future Roadmap
+
+Link to final version of visualization
+
+Link to video
+
 ## Motivation
 After climate change and poverty, corruption is the next biggest issue faced all over the world. As a tax payer, I would like to see the amount I pay as tax being put to good use for the country's developement. When such expectations are not met and money that we pay as tax does not reach the right hands. This is really frusturating to see and experience. Hence, I chose this topic on world corruption rate to study its trend on a global level. 
 
