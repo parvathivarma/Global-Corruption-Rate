@@ -42,6 +42,9 @@ The year is not continuouse as it has to be.
 https://www.theguardian.com/news/datablog/2010/dec/09/global-corruption-index-worlwide-transparency-international
 
 ### Warrant
+https://www.lexology.com/library/detail.aspx?g=3e76bfe3-0263-4626-a133-16f521023ebd
+
+Corruption Perceptions Index has declined indicating that the corruption has increased over the year. 
 
  ## My Final version of the claim
 <img width="953" alt="screen shot 2017-11-17 at 10 22 42 am" src="https://user-images.githubusercontent.com/32216143/32972805-1577056a-cba9-11e7-95e7-e489997f737c.png">
@@ -120,7 +123,12 @@ There is a lot of color in the second graph which could have been avoided
 http://www.livemint.com/Politics/xvOHfGD01czDhZvWIhkPmK/Corruption-in-public-services-has-declined-CMS-survey.html
 
 The above article talks about the decline in corruption rate in India. 
-India was ranked on top being one of the most corrupt Asian Country. A decline in corruption in such a country could show some improvement.  
+
+## Warrant
+India was ranked on top being one of the most corrupt Asian Country. A decline in corruption in such a country could show some improvement.
+
+## Reservation
+The decline can be that not all issues are being exposed to public. This might result in much serious issues. 
 
 ## Future enhancement Roadmap
 
